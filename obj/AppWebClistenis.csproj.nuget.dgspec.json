@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2024102020066\\source\\repos\\AppWebClistenis\\AppWebClistenis.csproj": {}
+    "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\AppWebClistenis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2024102020066\\source\\repos\\AppWebClistenis\\AppWebClistenis.csproj": {
+    "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\AppWebClistenis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2024102020066\\source\\repos\\AppWebClistenis\\AppWebClistenis.csproj",
+        "projectUniqueName": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\AppWebClistenis.csproj",
         "projectName": "AppWebClistenis",
-        "projectPath": "C:\\Users\\2024102020066\\source\\repos\\AppWebClistenis\\AppWebClistenis.csproj",
+        "projectPath": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\AppWebClistenis.csproj",
         "packagesPath": "C:\\Users\\2024102020066\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2024102020066\\source\\repos\\AppWebClistenis\\obj\\",
+        "outputPath": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
