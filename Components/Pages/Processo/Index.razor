@@ -1,4 +1,7 @@
 ﻿@page "/processos"
+@using AppWebClistenis.Model
+@using AppWebClistenis.DAO
+@inject ProcessoDAO ProcessoDAO
 
 <PageTitle> Processos - Sitema de Controle de Processos</PageTitle>
 
@@ -37,5 +40,11 @@
 
 
 @code {
+    private List<Processo> processos = new();
 
+    protected override void OnInitialized()
+    {
+        // Chama o DAO para buscar os dados no banco
+        processos = ProcessoDAO.Listar();
+     } 
 }

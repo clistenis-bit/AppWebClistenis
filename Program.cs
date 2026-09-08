@@ -1,10 +1,16 @@
 using AppWebClistenis.Components;
+using AppWebClistenis.Configs;
+using AppWebClistenis.DAO;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddScoped<Conexao>();
+builder.Services.AddScoped<ProcessoDAO>();
+
 
 var app = builder.Build();
 
@@ -17,6 +23,9 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+
+//app.UseStatusCodePagesWithReExecute("/not-found", "createScopeForStatusCodePages: true");
 
 app.UseStaticFiles();
 app.UseAntiforgery();
