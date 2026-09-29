@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\configs\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:configs\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\components\\pages\\processo\\cadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:components\\pages\\processo\\cadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\model\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:model\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\configs\\projeto-pds.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
@@ -19,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\configs\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:configs\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\appwebclistenis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:appwebclistenis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|c:\\users\\2024102020066\\documents\\github\\appwebclistenis\\configs\\projeto-pds.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{6C09CA65-F462-1032-95A6-B8F0C1165EDC}|AppWebClistenis.csproj|solutionrelative:configs\\projeto-pds.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,23 +50,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "projeto-pds.sql ",
-              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\projeto-pds.sql",
-              "RelativeDocumentMoniker": "Configs\\projeto-pds.sql",
-              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\projeto-pds.sql",
-              "RelativeToolTip": "Configs\\projeto-pds.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-08T19:17:38.675Z",
+              "Title": "Cadastro.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Components\\Pages\\Processo\\Cadastro.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processo\\Cadastro.razor",
+              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Components\\Pages\\Processo\\Cadastro.razor",
+              "RelativeToolTip": "Components\\Pages\\Processo\\Cadastro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T18:06:40.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Processo.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Model\\Processo.cs",
+              "RelativeDocumentMoniker": "Model\\Processo.cs",
+              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Model\\Processo.cs",
+              "RelativeToolTip": "Model\\Processo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:02:23.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProcessoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\DAO\\ProcessoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProcessoDAO.cs",
+              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\DAO\\ProcessoDAO.cs",
+              "RelativeToolTip": "DAO\\ProcessoDAO.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwCsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:12:29.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOHelper.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\DAOHelper.cs",
+              "RelativeDocumentMoniker": "Configs\\DAOHelper.cs",
+              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\DAOHelper.cs",
+              "RelativeToolTip": "Configs\\DAOHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:08:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "projeto-pds.sql",
+              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\projeto-pds.sql",
+              "RelativeDocumentMoniker": "Configs\\projeto-pds.sql",
+              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\projeto-pds.sql",
+              "RelativeToolTip": "Configs\\projeto-pds.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-08T19:17:38.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Components\\Pages\\Processo\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processo\\Index.razor",
+              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Components\\Pages\\Processo\\Index.razor",
+              "RelativeToolTip": "Components\\Pages\\Processo\\Index.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T18:16:33.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -74,48 +138,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:21:05.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T18:21:05.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Components\\Pages\\Processo\\Index.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Processo\\Index.razor",
-              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Components\\Pages\\Processo\\Index.razor",
-              "RelativeToolTip": "Components\\Pages\\Processo\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T18:16:33.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProcessoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\DAO\\ProcessoDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\ProcessoDAO.cs",
-              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\DAO\\ProcessoDAO.cs",
-              "RelativeToolTip": "DAO\\ProcessoDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:12:29.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DAOHelper.cs",
-              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\DAOHelper.cs",
-              "RelativeDocumentMoniker": "Configs\\DAOHelper.cs",
-              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\DAOHelper.cs",
-              "RelativeToolTip": "Configs\\DAOHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:08:01.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\Conexao.cs",
               "RelativeDocumentMoniker": "Configs\\Conexao.cs",
@@ -127,20 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Processo.cs",
-              "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Model\\Processo.cs",
-              "RelativeDocumentMoniker": "Model\\Processo.cs",
-              "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Model\\Processo.cs",
-              "RelativeToolTip": "Model\\Processo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:02:23.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -148,12 +162,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-25T19:10:00.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T19:10:00.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppWebClistenis.csproj",
               "DocumentMoniker": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\AppWebClistenis.csproj",
               "RelativeDocumentMoniker": "AppWebClistenis.csproj",
