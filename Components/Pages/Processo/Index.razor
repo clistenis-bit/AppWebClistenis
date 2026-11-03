@@ -1,6 +1,8 @@
 ﻿@page "/processos"
+
 @using AppWebClistenis.Model
 @using AppWebClistenis.DAO
+
 @inject ProcessoDAO ProcessoDAO
 
 <PageTitle>Processos - Sistema de Controle de Processos</PageTitle>
@@ -23,7 +25,7 @@
         <table class="table align-middle">
             <thead>
                 <tr>
-                    <th>Id</th>
+                    <th>ID</th>
                     <th>Número</th>
                     <th>Interessado</th>
                     <th>Assunto</th>
@@ -41,7 +43,24 @@
                         <td>@processo.Interessado</td>
                         <td>@processo.Assunto</td>
                         <td>@processo.Situacao</td>
-                        <td></td>
+
+                        <td class="text-end">
+                            <div class="btn-group btn-group-sm">
+
+                                <a href="@($"/processos/editar/{processo.Id}")"
+                                   class="btn btn-light border text-primary"
+                                   title="Editar">
+                                    <i class="bi bi-pencil"></i>
+                                </a>
+
+                                <a href="#"
+                                   class="btn btn-light border text-danger"
+                                   title="Excluir">
+                                    <i class="bi bi-trash"></i>
+                                </a>
+
+                            </div>
+                        </td>
                     </tr>
                 }
             </tbody>
