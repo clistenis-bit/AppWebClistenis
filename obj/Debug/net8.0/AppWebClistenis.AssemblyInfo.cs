@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppWebClistenis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b93819038a3b390c550b34f0236c56e220db3e38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49cd1c143b8cb66ae9dafbce08e63d91aee5b366")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppWebClistenis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppWebClistenis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
