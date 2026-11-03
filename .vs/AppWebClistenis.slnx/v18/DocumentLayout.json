@@ -62,8 +62,7 @@
               "RelativeToolTip": "Components\\Pages\\Processo\\Cadastro.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T18:06:40.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T18:06:40.138Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Model\\Processo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:02:23.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T18:02:23.893Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "DAO\\ProcessoDAO.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAIwCsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T18:12:29.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T18:12:29.325Z"
             },
             {
               "$type": "Document",
@@ -99,7 +96,7 @@
               "RelativeDocumentMoniker": "Configs\\DAOHelper.cs",
               "ToolTip": "C:\\Users\\2024102020066\\Documents\\GitHub\\AppWebClistenis\\Configs\\DAOHelper.cs",
               "RelativeToolTip": "Configs\\DAOHelper.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-08T18:08:01.069Z",
               "EditorCaption": ""
@@ -125,8 +122,7 @@
               "RelativeToolTip": "Components\\Pages\\Processo\\Index.razor",
               "ViewState": "AgIAABgAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T18:16:33.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T18:16:33.553Z"
             },
             {
               "$type": "Document",
